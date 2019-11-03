@@ -20,3 +20,25 @@ C:\Users\anasb\documents\visual studio 2013\Projects\Garment\Garment\bin\Release
 C:\Users\anasb\documents\visual studio 2013\Projects\Garment\Garment\bin\Release\Garment.application
 C:\Users\anasb\documents\visual studio 2013\Projects\Garment\Garment\obj\Release\Garment.exe.manifest
 C:\Users\anasb\documents\visual studio 2013\Projects\Garment\Garment\obj\Release\Garment.application
+D:\Git_Projects\Point-of-sale-system\Garment\bin\Release\Garment.exe.config
+D:\Git_Projects\Point-of-sale-system\Garment\bin\Release\Garment.exe.manifest
+D:\Git_Projects\Point-of-sale-system\Garment\bin\Release\Garment.application
+D:\Git_Projects\Point-of-sale-system\Garment\bin\Release\Garment.exe
+D:\Git_Projects\Point-of-sale-system\Garment\bin\Release\Garment.pdb
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.csprojAssemblyReference.cache
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.Form1.resources
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.Form2.resources
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.Home.resources
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.Info.resources
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.Item.resources
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.Login.resources
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.ProductUC.resources
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.Properties.Resources.resources
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.Resources.ProductsUC.resources
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.Sales_price.resources
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.csproj.GenerateResource.cache
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.csproj.CoreCompileInputs.cache
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.exe.manifest
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.application
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.exe
+D:\Git_Projects\Point-of-sale-system\Garment\obj\Release\Garment.pdb
